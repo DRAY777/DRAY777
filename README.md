@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/DRAY777](https://github.com/DRAY777)
+- 👨‍💻 All of my projects are available at [https://github.com/DRAY777?tab=projects](https://github.com/DRAY777?tab=projects)
 
 - 📫 How to reach me **dipendu007x@proton.me**
 
